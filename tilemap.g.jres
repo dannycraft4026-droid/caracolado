@@ -1,0 +1,35 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAzMDIwMjAyMDIwMjAyMDIwMzAwMDAwYjBjMGQwMDAwMDEwMDAwMDAwMDAwMDAwMDA4MDAwMDAwMDAwMDAwMDAwMTAwMDAwMDAwMDAwMDAwMDgwMDAwMDAwMDAwMDAwMDAxMDAwOTA3MDYwMDAwMDAwODAwMGUwMDAwMDAwZTAwMDEwMDA4MDAwMTAwMDAwMDA4MDAwMDAwMDAwMDAwMDAwMTAwMDgwMDAxMDAwMDAwMDgwMDAwMGUwMDAwMDAwZTAxMDAwODAwMDEwMDAwMDAwODAwMDAwMDAwMDAwMDAwMDEwMDA4MDAwMTAwMDAwMDA4MDAwMDAwMDAwMDAwMDAwMTAwMDgwMDAxMDAwMDAwMDgwMDBlMDAwMDBlMDAwMDAxMDAwODAwMDEwMDAwMDAwODAwMDAwMDAwMDAwMDBlMDEwMDA4MDAwMTAwMDAwMDA4MDAwMDAwMDAwMDAwMDAwMTAwMDgwMDAxMDAwMDAwMDgwMDBlMDAwMDAwMDAwMDAxMDAwODAwMDEwMDAwMDAwODAwMDAwMDAwMDAwMDBlMDEwMDA4MDAwMTAwMDAwMDA0MDIwMjAyMDIwMDAwMDAwMTAwMDgwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA1MGEwNDAwMDUwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjIyMjIyMjIwMjAwMDAwMDAyMDAwMDAwMDIwMDAwMDAwMjAwMDAwMDAyMDAwMDAwMDIyMjAyMDAwMjAwMDAwMDAyMDIwMjAwMDIwMDAwMDAwMjAyMDIwMDAyMDAwMDAwMDIwMjAyMDAwMjAwMDAwMDAyMDIwMjAwMDIwMDAwMDAwMjAyMDIwMDAyMDAwMDAwMDIwMjAyMDAwMjAwMDAwMDAyMDIwMjAwMDIwMDAwMDAwMjAyMDIwMDAyMDAwMDAwMDIwMjAyMDAwMjAwMDAwMDAyMDIwMjAwMjIyMjAyMDAwMjAyMDIwMDAwMDAwMDAwMDIwMjAyMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.builtin.forestTiles11",
+            "sprites.builtin.forestTiles14",
+            "sprites.builtin.forestTiles10",
+            "sprites.builtin.forestTiles13",
+            "sprites.builtin.forestTiles15",
+            "sprites.builtin.forestTiles7",
+            "sprites.builtin.forestTiles6",
+            "sprites.builtin.forestTiles9",
+            "sprites.builtin.forestTiles5",
+            "sprites.builtin.forestTiles2",
+            "sprites.builtin.forestTiles17",
+            "sprites.builtin.forestTiles18",
+            "sprites.builtin.forestTiles19",
+            "sprites.castle.rock2"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
